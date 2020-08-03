@@ -1,1 +1,4 @@
-# error-ssr-compile
+# Steps to reproduce
+npm install
+
+npm run dev:ssr
